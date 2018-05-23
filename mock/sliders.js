@@ -1,0 +1,2 @@
+module.exports =
+  ['https://m.360buyimg.com/mobilecms/s750x366_jfs/t18691/153/2055311765/199334/34565ba2/5ae425d3N62393c9a.jpg!cr_1125x549_0_72!q70.jpg.dpg','https://m.360buyimg.com/mobilecms/s750x366_jfs/t18124/185/2104043365/314635/c0214e8b/5ae147b4Ndf46beac.jpg!cr_1125x549_0_72!q70.jpg.dpg','https://m.360buyimg.com/mobilecms/s750x366_jfs/t18097/169/2119824933/243122/f3e704a0/5ae336ebN6b991e3c.jpg!cr_1125x549_0_72!q70.jpg.dpg','https://m.360buyimg.com/mobilecms/s750x366_jfs/t19051/51/2215529319/185855/b89f23a8/5ae95644N3d045b8d.jpg!cr_1125x549_0_72!q70.jpg.dpg'];
