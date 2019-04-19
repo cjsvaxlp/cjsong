@@ -13,6 +13,14 @@ export let getSliders = () =>{
 
 //获取热门图书接口
 export let getHotBook = () =>{
-  return axios.get('./hot')
+  return axios.get('/hot')
 } ;
 
+//获取全部图书
+export let getBooks = () =>{
+  return axios.get('/book')
+};
+//删除某一本图书
+export let removeBook = (id) =>{
+  return axios.delete(`/book?=${2}`);
+};

@@ -61,7 +61,9 @@
       display:flex;
       flex-wrap:wrap;/*默认不换行*/
       li{
-      width:50%;
+        width:50%;
+        text-align:center;
+        margin:5px 0;
         img{
           width:100%;
         }
@@ -69,6 +71,6 @@
     }
   }
 h3{
-
+color:#999;padding:5px 0;
 }
 </style>

@@ -10,10 +10,12 @@ import List from '../components/List.vue';
 
 export default new Router({
   routes: [
+    {path:'/',redirect:'/home'},
     {path:'/home',component:Home},
     {path:'/collect',component:Collect},
     {path:'/detail',component:Detail},
     {path:'/add',component:Add},
     {path:'/list',component:List},
+    {path:'*',redirect:'/home'},
   ]
 })
